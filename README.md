@@ -27,5 +27,3 @@ Object-Oriented Programming (OOP)-based recruitment management system for handli
 - Method Implementation
 - Data Management
 
-## Author
-Reno
